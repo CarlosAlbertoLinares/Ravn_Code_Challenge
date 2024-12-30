@@ -4,3 +4,5 @@ This repo has the required files for the code challenge with dublin related tran
 2) Put your credentials for S3 and snowflake in the python script named "RAVN_Coding_challenge_official.py" (you can get this information in the amazon web portal related cloud services and the snowflake web portal). See the PDF named "Tutorial - How to run this ETL" for more details
 3) A cron job is configured for daily run, see the PDF named "Tutorial - How to run this ETL"
 4) The design of the ETL is in a document called "ETL Design"
+
+repo:https://github.com/CarlosAlbertoLinares/Ravn_Code_Challenge.git
